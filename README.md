@@ -1,2 +1,4 @@
-# lazyTrading
-Help people trade better by data analysis and by adding functionalities to existing trading platforms
+# Stock Volatility Predictor
+
+Train Machine Learning & Deep Learning models to predict the realized volatility of stocks
+
